@@ -1,4 +1,4 @@
-# Movie Bookings CDC Data Pipeline with Medallion Architecture in Snowflake
+# Movie Bookings Real Time CDC Data Pipeline with Medallion Architecture in Snowflake
 
 ## Introduction
 This project demonstrates a real-time Change Data Capture (CDC) data pipeline for movie bookings using Snowflake’s features such as Dynamic Tables, Streams, and Tasks. It follows the Medallion Architecture pattern (Bronze, Silver, Gold layers) and concludes with a real-time Streamlit dashboard built on top of the refined, aggregated data in the Gold layer. The project showcases Snowflake’s modern capabilities for real-time data ingestion and transformation with minimal operational overhead.
