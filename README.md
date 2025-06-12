@@ -52,7 +52,7 @@ movies_booking_insights: movie_id, total_bookings, total_tickets_sold, total_rev
 ![Dashboard](Movie_bookings_dashboard.jpg)
 
 ## Buisness Impact
-Businesses can leverage near real-time metrics such as total bookings, total revenue, and total cancellations to make timely decisions. These insights help monitor booking trends, identify high-demand movies, detect sudden spikes in cancellations, and adjust marketing or pricing strategies dynamically—ultimately improving operational efficiency and maximizing revenue.
+Businesses can leverage near real-time metrics such as `total_bookings`, `total_revenue`, and `total_cancellations` to make timely decisions. These insights help monitor booking trends, identify high-demand movies, detect sudden spikes in cancellations, and adjust marketing or pricing strategies dynamically—ultimately improving operational efficiency and maximizing revenue.
 
 ## My Learnings
 - Practical understanding of Medallion Architecture implementation inside Snowflake.
